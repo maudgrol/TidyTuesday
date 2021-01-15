@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = F)
 ```
 
-Welcome to my #TidyTuesday repo. In 2021 I decided to start taking part in these data projects to further build my data visualization skills with real-world data. Clicking on a plot will take you to the code I wrote to build it. You can find me on [twitter](https://twitter.com/maudgrol) or [LinkedIn](https://www.linkedin.com/in/maud-grol-8033b312/) if you would like to get in touch.  
+Welcome to my #TidyTuesday repo. At the start of 2021 I decided that I will take part in these data projects to further build my data visualization skills with real-world data. Clicking on a plot will take you to the code I wrote to build it. You can find me on [twitter](https://twitter.com/maudgrol) or [LinkedIn](https://www.linkedin.com/in/maud-grol-8033b312/) if you would like to get in touch.  
 
 
 ## #TidyTuesday
