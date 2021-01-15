@@ -1,10 +1,10 @@
 TidyTuesday contributions
 ================
 
-Welcome to my \#TidyTuesday repo. In 2021 I decided to start taking part
-in these data projects to further build my data visualization skills
-with real-world data. Clicking on a plot will take you to the code I
-wrote to build it. You can find me on
+Welcome to my \#TidyTuesday repo. At the start of 2021 I decided that I
+will take part in these data projects to further build my data
+visualization skills with real-world data. Clicking on a plot will take
+you to the code I wrote to build it. You can find me on
 [twitter](https://twitter.com/maudgrol) or
 [LinkedIn](https://www.linkedin.com/in/maud-grol-8033b312/) if you would
 like to get in touch.
@@ -21,7 +21,7 @@ people are invited to explore the data. The goal of TidyTuesday is to
 apply R skills, get feedback, explore other’s work, and connect with the
 greater \#RStats community\!
 
-## 12-01-2021 - Tate art
+## 12-01-2021 - Tate Art
 
 My first ever TidyTuesday project, showing that there is a big gender
 gap when it comes to acquiring artists’ work.
